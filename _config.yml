@@ -26,7 +26,7 @@ author:
   avatar           : "Nasir.png"
   name             : "Nasir Yasin"
   pronouns         : # example: "she/her"  
-  bio              : "Machine learnin|Computational Fluid Dynamics | Numerical Analysis and Modeling|"
+  bio              : "Machine learnin | Computational Fluid Dynamics | Numerical Analysis and Modeling|"
   location         : "Norfolk, USA"
   employer         : "Old Dominion University"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
