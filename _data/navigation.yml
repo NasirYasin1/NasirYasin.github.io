@@ -10,6 +10,7 @@
 main:
   - title: "Publications"
     url: /publications/
+    url: https://scholar.google.com/citations?user=SXnHNu0AAAAJ
 
   - title: "Talks"
     url: /talks/    
@@ -29,5 +30,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
