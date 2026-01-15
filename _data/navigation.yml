@@ -12,8 +12,8 @@ main:
     url: /publications/
     url: https://scholar.google.com/citations?user=SXnHNu0AAAAJ
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Conference and Seminars"
+    url: /Conference and Seminars/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -21,8 +21,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "CV"
     url: /cv/
