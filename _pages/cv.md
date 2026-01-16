@@ -33,13 +33,13 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 {% endcomment %}
+{% comment %}
 Work experience
 ======
-work:
   - position: "Graduate Student & SI Leader"
-    company: "Old Dominion University"
+    company: Old Dominion University
     website: "https://www.odu.edu"
-    startDate: "2023-08"
+    startDate: "2023-08
     endDate: "Present"
     summary: "Graduate student in Applied & Computational Mathematics, focusing on numerical methods, HPC, and machine learning."
     highlights:
@@ -68,6 +68,7 @@ work:
       - "Performed numerical simulations using SRT-LBM method in Fortran"
       - "Post-processing and visualization using MATLAB and Tecplot"
       - "Contributed to HEC-funded computational fluid dynamics research"
+  {% endcomment %}
 {% comment %}
 Publications
 ======
