@@ -53,10 +53,10 @@ author:
   github           : "https://github.com/NasirYasin1"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
+  Pubmed           : ""# Username
   # Social media
   artstation       : # Username
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : #"" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
