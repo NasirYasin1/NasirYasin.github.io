@@ -23,13 +23,13 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* April 2022- August 2023: Research Assistant
+  * Kyungpook National University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* January 2020 - April 2022: Research Assistant
+  * COMSATS University Islamabad
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 {% comment %}
