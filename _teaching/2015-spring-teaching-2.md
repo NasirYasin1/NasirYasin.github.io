@@ -1,12 +1,13 @@
 ---
-title: "Undergraduate Courses – Supplemental Instruction (SI Leader)"
+title: "Grauate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course support"
 venue: "Old Dominion University"
 date: 2023-08-01
 location: "Norfolk, VA, USA"
 excerpt: |
-  From Fall 2023, I have been working as a Supplemental Instruction (SI) Leader for undergraduate mathematics courses at Old Dominion University.
+ excerpt: |
+  From Fall 2023, I have been working as a Supplemental Instruction (SI) Leader for undergraduate mathematics courses at Old Dominion University. In addition to SI sessions, I support students in the <strong>Applied Calculus Laboratory</strong> and the <strong>SMART Room</strong>, and provide <strong>online tutoring</strong> for undergraduate mathematics courses.
 
   Courses supported:
   - MATH-212: Calculus 
