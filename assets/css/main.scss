@@ -41,22 +41,41 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Sidebar avatar like the example: true circle + border */
+/* Make the avatar image fully fill the circular frame (no inner gap) */
+.sidebar .author__avatar,
 .author__avatar {
-  width: 190px !important;
-  height: 190px !important;
+  width: 200px !important;
+  height: 200px !important;
+  padding: 0 !important;          /* removes inner gap */
   border-radius: 50% !important;
   overflow: hidden !important;
+  border: 3px solid #e6e6e6 !important; /* optional ring */
+  background: transparent !important;
   margin: 0 auto 0.75rem !important;
-  border: 3px solid #e6e6e6 !important;
 }
 
+/* If your avatar is wrapped in a link, make the link fill the circle */
+.sidebar .author__avatar a,
+.author__avatar a {
+  display: block !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* Force the image to fill the circle */
+.sidebar .author__avatar img,
 .author__avatar img,
 img.author__avatar {
   width: 100% !important;
   height: 100% !important;
+  max-width: none !important;
   object-fit: cover !important;
-  object-position: 50% 18% !important; /* keeps hair in frame */
+  object-position: 50% 18% !important; /* move up if needed */
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;          /* removes inner border */
+  border-radius: 0 !important;
   display: block !important;
 }
+
 
