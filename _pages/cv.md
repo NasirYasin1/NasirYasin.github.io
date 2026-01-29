@@ -36,6 +36,47 @@ Work experience
 Projects
 ======
   - position: "Graduate Student & SI Leader"
+    company: "Old Dominion University"
+    website: "https://www.odu.edu"
+    startDate: "2023-08"
+    endDate: "Present"
+    summary: "Graduate student in Applied & Computational Mathematics, focusing on numerical methods, HPC, and machine learning."
+    highlights:
+      - "SI Leader tutoring undergraduate math courses"
+      - "Research in numerical methods and high-performance computing"
+      - "Machine learning applications in computational mathematics"
+      - "Entropy and Gradient Stable Scheme for Hyperbolic Burgers’ Equation (Jan 2024–Aug 2025)"
+      - "Convergence and Performance Comparison of Numerical Solvers for Sparse Resistor-Network Linear Systems (Dec 2023)"
+      - "Image Processing and Compression Using Multiple Algorithms (Dec 2023)"
+
+  - position: "Research Assistant"
+    company: "Applied Fluid Laboratory, Kyungpook National University"
+    website: "https://en.knu.ac.kr/main/main.htm"
+    startDate: "2022-04"
+    endDate: "2023-08"
+    summary: "Research Assistant on NRF-funded project on energy recovery of oscillating wings."
+    highlights:
+      - "Improved energy recovery performance of oscillated wings using articulated and flexible bodies (Apr 2022–Aug 2023)"
+      - "Simulated high-Reynolds-number flows using Lattice Boltzmann Method (SRT & MRT)"
+      - "Developed GPU-accelerated C++/CUDA solvers for oscillating-wing energy recovery"
+      - "Implemented parallel computing solutions for complex fluid dynamics problems"
+
+  - position: "Research Assistant"
+    company: "COMSATS University Islamabad"
+    website: "https://www.comsats.edu.pk/"
+    startDate: "2020-01"
+    endDate: "2022-04"
+    summary: "Research Assistant on HEC-funded project."
+    highlights:
+      - "Numerical study of wake and thrust around multiple cylinders at moderate Reynolds numbers for various configurations (Jan 2020–Apr 2022)"
+      - "Performed numerical simulations using SRT-LBM method in Fortran"
+      - "Post-processing and visualization using MATLAB and Tecplot"
+      - "Contributed to HEC-funded computational fluid dynamics research"
+    
+
+Projects
+======
+  - position: "Graduate Student & SI Leader"
     company: Old Dominion University
     website: "https://www.odu.edu"
     startDate: "2023-08
