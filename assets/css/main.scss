@@ -41,4 +41,22 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Sidebar avatar like the example: true circle + border */
+.author__avatar {
+  width: 170px !important;
+  height: 170px !important;
+  border-radius: 50% !important;
+  overflow: hidden !important;
+  margin: 0 auto 0.75rem !important;
+  border: 3px solid #e6e6e6 !important;
+}
+
+.author__avatar img,
+img.author__avatar {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: 50% 18% !important; /* keeps hair in frame */
+  display: block !important;
+}
 
