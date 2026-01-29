@@ -28,7 +28,6 @@ Graduate Coursework
       <li>large Scale Optimization</li>
       <li>Probability Theory for Data Science</li>
       <li>Statistical Theory for Data Science</li>
-      <li></li>
     </ol>
   </div>
 
