@@ -22,7 +22,6 @@ Graduate Coursework
 
 <!-- Data Science -->
 <div style="margin-bottom:16px;">
-  <strong>Data Science</strong>
   <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
     <ul style="margin:0 0 0 18px; padding:0; list-style:disc;">
       <li>Machine Learning</li>
@@ -40,7 +39,6 @@ Graduate Coursework
 
 <!-- Numerical Modeling -->
 <div style="margin-bottom:16px;">
-  <strong>Numerical Modeling</strong>
   <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
     <ul style="margin:0 0 0 18px; padding:0; list-style:disc;">
       <li>Numerical Solution of PDEs</li>
@@ -62,7 +60,6 @@ Graduate Coursework
 
 <!-- Pure Mathematics -->
 <div style="margin-bottom:0;">
-  <strong>Pure Mathematics</strong>
   <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
     <ul style="margin:0 0 0 18px; padding:0; list-style:disc;">
       <li>Real Analysis</li>
