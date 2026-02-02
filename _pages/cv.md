@@ -16,6 +16,10 @@ Education
 * Master Of science in Mathematics, COMSATS University Islamabad, 2021
 * B.S in Mathematics, International Islamic University Islamabad, 2018
 
+
+Graduate Coursework
+======
+
 <!-- Data Science -->
 <div style="margin-bottom:16px; overflow-x:auto;">
   <div style="display:grid; grid-template-columns:max-content max-content max-content; gap:28px; margin-top:6px;">
@@ -72,7 +76,7 @@ Education
   </div>
 </div>
 
-
+{% comment %}
 Graduate Coursework
 ======
 
@@ -129,7 +133,7 @@ Graduate Coursework
     </ul>
   </div>
 </div>
-
+{% endcomment %}
 Work experience
 ======
 * <strong>Fall 2023 - Present </strong>: Graduate Teaching Assistant 
