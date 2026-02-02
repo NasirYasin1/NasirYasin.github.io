@@ -25,11 +25,11 @@ Graduate Coursework
   <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
     <ul style="margin:0 0 0 18px; padding:0; list-style:disc;">
       <li>Machine Learning</li>
-      <li>Modern Statistical Methods for Big Data Analytics</li>
+      <li>Probability Theory for Data Science</li>
     </ul>
     <ul style="margin:0 0 0 18px; padding:0; list-style:disc;">
       <li>Large-Scale Optimization</li>
-      <li>Probability Theory for Data Science</li>
+      <li>Modern Statistical Methods for Big Data Analytics</li>
     </ul>
     <ul style="margin:0 0 0 18px; padding:0; list-style:disc;">
       <li>Statistical Theory for Data Science</li>
@@ -41,18 +41,18 @@ Graduate Coursework
   <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
     <ul style="margin:0 0 0 18px; padding:0; list-style:disc;">
       <li>Numerical Solution of PDEs</li>
-      <li>Numerical Solution of Differential Equations</li>
-      <li>Advanced Applied Numerical Methods</li>
+      <li>Perturbation Methods</li>
+      <li>Viscous Fluid Flow</li>
     </ul>
     <ul style="margin:0 0 0 18px; padding:0; list-style:disc;">
       <li>Computational Linear Algebra</li>
       <li>Heat Transfer</li>
-      <li>Perturbation Methods</li>
+      <li>Numerical Solution of Differential Equations</li>
     </ul>
     <ul style="margin:0 0 0 18px; padding:0; list-style:disc;">
       <li>Numerical Linear Algebra</li>
       <li>Elastodynamics</li>
-      <li>Viscous Fluid Flow</li>
+      <li>Advanced Applied Numerical Methods</li>
     </ul>
   </div>
 </div>
