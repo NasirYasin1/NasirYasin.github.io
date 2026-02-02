@@ -36,7 +36,6 @@ Graduate Coursework
     </ul>
   </div>
 </div>
-
 <!-- Numerical Modeling -->
 <div style="margin-bottom:16px;">
   <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
@@ -57,7 +56,6 @@ Graduate Coursework
     </ul>
   </div>
 </div>
-
 <!-- Pure Mathematics -->
 <div style="margin-bottom:0;">
   <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
