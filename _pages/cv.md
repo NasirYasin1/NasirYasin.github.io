@@ -18,6 +18,47 @@ Education
 
 Graduate Coursework
 ======
+<div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px; margin-top: 0;">
+
+  <div>
+    <strong>Data Science</strong>
+    <ol style="margin:6px 0 0 18px; padding:0;">
+      <li>Machine Learning</li>
+      <li>Modern Statistical Methods for Big Data Analytics</li>
+      <li>Large-Scale Optimization</li>
+      <li>Probability Theory for Data Science</li>
+      <li>Statistical Theory for Data Science</li>
+    </ol>
+  </div>
+
+  <div>
+    <strong>Numerical Modeling</strong>
+    <ol style="margin:6px 0 0 18px; padding:0;">
+      <li>Applied Numerical Analysis</li>
+      <li>Partial Differential Equations</li>
+      <li>Scientific Computing</li>
+      <li>High-Performance Computing</li>
+      <li>Computational Methods</li>
+      <li>Optimization</li>
+    </ol>
+  </div>
+
+  <div>
+    <strong>Pure Mathematics</strong>
+    <ol style="margin:6px 0 0 18px; padding:0;">
+      <li>Real Analysis</li>
+      <li>Functional Analysis</li>
+      <li>Measure Theory</li>
+      <li>Abstract Algebra</li>
+      <li>Complex Analysis</li>
+      <li>Topology</li>
+    </ol>
+  </div>
+
+</div>
+
+
+
 <div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 28px; margin-top:-10px;">
 
   <div>
