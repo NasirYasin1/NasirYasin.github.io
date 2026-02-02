@@ -16,6 +16,70 @@ Education
 * Master Of science in Mathematics, COMSATS University Islamabad, 2021
 * B.S in Mathematics, International Islamic University Islamabad, 2018
 
+
+Graduate Coursework
+======
+
+<!-- Data Science -->
+<div style="margin-bottom:16px;">
+  <strong>Data Science</strong>
+  <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
+    <ol style="margin:0 0 0 18px; padding:0;">
+      <li>Machine Learning</li>
+      <li>Modern Statistical Methods for Big Data Analytics</li>
+    </ol>
+    <ol style="margin:0 0 0 18px; padding:0;">
+      <li>Large-Scale Optimization</li>
+      <li>Probability Theory for Data Science</li>
+    </ol>
+    <ol style="margin:0 0 0 18px; padding:0;">
+      <li>Statistical Theory for Data Science</li>
+    </ol>
+  </div>
+</div>
+
+<!-- Numerical Modeling -->
+<div style="margin-bottom:16px;">
+  <strong>Numerical Modeling</strong>
+  <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
+    <ol style="margin:0 0 0 18px; padding:0;">
+      <li>Numerical Solution of PDEs</li>
+      <li>Numerical Solution of Differential Equations</li>
+      <li>Advanced Applied Numerical Methods</li>
+    </ol>
+    <ol style="margin:0 0 0 18px; padding:0;">
+      <li>Computational Linear Algebra</li>
+      <li>Numerical Linear Algebra</li>
+      <li>Perturbation Methods</li>
+    </ol>
+    <ol style="margin:0 0 0 18px; padding:0;">
+      <li>Heat Transfer</li>
+      <li>Elastodynamics</li>
+      <li>Viscous Fluid Flow</li>
+    </ol>
+  </div>
+</div>
+
+<!-- Pure Mathematics -->
+<div style="margin-bottom:0;">
+  <strong>Pure Mathematics</strong>
+  <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
+    <ol style="margin:0 0 0 18px; padding:0;">
+      <li>Real Analysis</li>
+      <li>Applied Functional Analysis</li>
+    </ol>
+    <ol style="margin:0 0 0 18px; padding:0;">
+      <li>Measure Theory</li>
+      <li>Engineering Analysis</li>
+    </ol>
+    <ol style="margin:0 0 0 18px; padding:0;">
+      <li>Complex Analysis</li>
+      <li>Fixed Point Theory</li>
+    </ol>
+  </div>
+</div>
+
+
 Graduate Coursework
 ======
 <!-- Data Science -->
@@ -41,16 +105,19 @@ Graduate Coursework
   <strong>Numerical Modeling</strong>
   <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
     <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Applied Numerical Analysis</li>
-      <li>Partial Differential Equations</li>
+      <li>Numerical Solution of PDEs</li>
+      <li>Numerical Solution of Differential Equations</li>
+      <li>Advance Applied Numeric Methods</li>
     </ol>
     <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Scientific Computing</li>
-      <li>High-Performance Computing</li>
+      <li>Computational Linear Algebra</li>
+      <li>Numerical Linear Algebra</li>
+       <li>Perturbation Method</li>
     </ol>
     <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Computational Methods</li>
-      <li>Optimization</li>
+      <li>Heat Transfer</li>
+      <li>Elastodynamics</li
+      <li>Viscous Fluid</li>
     </ol>
   </div>
 </div>
@@ -61,155 +128,18 @@ Graduate Coursework
   <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
     <ol style="margin:0 0 0 18px; padding:0;">
       <li>Real Analysis</li>
-      <li>Functional Analysis</li>
+      <li>Applied Functional Analysis</li>
     </ol>
     <ol style="margin:0 0 0 18px; padding:0;">
       <li>Measure Theory</li>
-      <li>Abstract Algebra</li>
+      <li>Engineering Analysis</li>
     </ol>
     <ol style="margin:0 0 0 18px; padding:0;">
       <li>Complex Analysis</li>
-      <li>Topology</li>
+      <li> Fixed Point Theory</li>
     </ol>
   </div>
 </div>
-<!-- Data Science -->
-<div style="margin-bottom:16px;">
-  <strong>Data Science</strong>
-  <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
-    <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Machine Learning</li>
-      <li>Modern Statistical Methods for Big Data Analytics</li>
-    </ol>
-    <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Large-Scale Optimization</li>
-      <li>Probability Theory for Data Science</li>
-    </ol>
-    <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Statistical Theory for Data Science</li>
-    </ol>
-  </div>
-</div>
-
-<!-- Numerical Modeling -->
-<div style="margin-bottom:16px;">
-  <strong>Numerical Modeling</strong>
-  <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
-    <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Applied Numerical Analysis</li>
-      <li>Partial Differential Equations</li>
-    </ol>
-    <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Scientific Computing</li>
-      <li>High-Performance Computing</li>
-    </ol>
-    <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Computational Methods</li>
-      <li>Optimization</li>
-    </ol>
-  </div>
-</div>
-
-<!-- Pure Mathematics -->
-<div style="margin-bottom:0;">
-  <strong>Pure Mathematics</strong>
-  <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:28px; margin-top:6px;">
-    <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Real Analysis</li>
-      <li>Functional Analysis</li>
-    </ol>
-    <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Measure Theory</li>
-      <li>Abstract Algebra</li>
-    </ol>
-    <ol style="margin:0 0 0 18px; padding:0;">
-      <li>Complex Analysis</li>
-      <li>Topology</li>
-    </ol>
-  </div>
-</div>
-
-<div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px; margin-top: 0;">
-
-  <div>
-    <strong>Data Science</strong>
-    <ol style="margin:6px 0 0 18px; padding:0;">
-      <li>Machine Learning</li>
-      <li>Modern Statistical Methods for Big Data Analytics</li>
-      <li>Large-Scale Optimization</li>
-      <li>Probability Theory for Data Science</li>
-      <li>Statistical Theory for Data Science</li>
-    </ol>
-  </div>
-
-  <div>
-    <strong>Numerical Modeling</strong>
-    <ol style="margin:6px 0 0 18px; padding:0;">
-      <li>Applied Numerical Analysis</li>
-      <li>Partial Differential Equations</li>
-      <li>Scientific Computing</li>
-      <li>High-Performance Computing</li>
-      <li>Computational Methods</li>
-      <li>Optimization</li>
-    </ol>
-  </div>
-
-  <div>
-    <strong>Pure Mathematics</strong>
-    <ol style="margin:6px 0 0 18px; padding:0;">
-      <li>Real Analysis</li>
-      <li>Functional Analysis</li>
-      <li>Measure Theory</li>
-      <li>Abstract Algebra</li>
-      <li>Complex Analysis</li>
-      <li>Topology</li>
-    </ol>
-  </div>
-
-</div>
-
-
-
-<div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 28px; margin-top:-10px;">
-
-  <div>
-    <strong>Data Science</strong>
-    <ol style="margin:6px 0 0 18px; padding:0;">
-      <li>Machine Learning</li>
-      <li>Modern Statistical Methods for Big Data Analytics</li>
-      <li>large Scale Optimization</li>
-      <li>Probability Theory for Data Science</li>
-      <li>Statistical Theory for Data Science</li>
-    </ol>
-  </div>
-
-  <div>
-    <strong>Applied Mathematics</strong>
-    <ol style="margin:6px 0 0 18px; padding:0;">
-      <li>Applied Numerical Analysis</li>
-      <li>Partial Differential Equations</li>
-      <li>Scientific Computing</li>
-      <li>High-Performance Computing</li>
-      <li>Optimization</li>
-      <li>Computational Methods</li>
-    </ol>
-  </div>
-
-  <div>
-    <strong>Pure Mathematics</strong>
-    <ol style="margin:6px 0 0 18px; padding:0;">
-      <li>Real Analysis</li>
-      <li>Functional Analysis</li>
-      <li>Measure Theory</li>
-      <li>Abstract Algebra</li>
-      <li>Complex Analysis</li>
-      <li>Topology</li>
-    </ol>
-  </div>
-
-</div>
-
-
 Work experience
 ======
 * <strong>Fall 2023 - Present </strong>: Graduate Teaching Assistant 
