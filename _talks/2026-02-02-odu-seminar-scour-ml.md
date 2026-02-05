@@ -1,12 +1,12 @@
 ---
-title: "Your talk title here"
+title: "Flow Patterns Behind Stationary and Moving Bluff Bodies Utilizing the SRC-Lattice Boltzmann Method"
 collection: talks
-type: "Invited talk"          # or "Conference talk", "Seminar", etc.
-venue: "Event / University / Conference name"
-date: 2026-02-02
-location: "Norfolk, VA, USA"
-permalink: /talks/2026-02-02-odu-seminar-scour-ml
-link: "https://event-page-or-slides-link.com"   # optional
+type: "Conference"          # or "Conference talk", "Seminar", etc.
+venue: "Event / West Virginia University / SEARCDE"
+date: 11-09-2024
+location: "Morgantown, WV, USA"
+permalink: /talks/2024-11-09-searcde-src-lbm-bluff-bodies
+link: "https://mathanddata.wvu.edu/searcde-2024/conference-schedule-searcde-2024"   # optional
 ---
 
 A short description (2–5 lines): what you presented, topic, outcomes, etc.
