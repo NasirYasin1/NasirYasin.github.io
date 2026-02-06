@@ -9,4 +9,3 @@ permalink: /talks/2024-11-09-searcde-src-lbm-bluff-bodies
 link: "https://mathanddata.wvu.edu/searcde-2024/conference-schedule-searcde-2024"   # optional
 ---
 
-A short description (2–5 lines): what you presented, topic, outcomes, etc.
